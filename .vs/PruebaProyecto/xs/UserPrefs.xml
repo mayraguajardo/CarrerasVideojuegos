@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FD4F0271-692F-201A-9FF1-6273B239C898}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CameraFollow.cs">
+    <Files>
+      <File FileName="Assets/CameraFollow.cs" Line="19" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PruebaProyecto" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CameraFollow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c471d1a7-5751-415d-ac61-f9fa063d17c9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
